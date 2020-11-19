@@ -7,7 +7,7 @@
 ### Specifications
 - Intel i3-10110u Dual Core Processor [WORKING WITHOUT SPOOF]
 - Intel UHD 620 (NO DGPU)[ VRAM SET ON 2048MB SINCE 19-11-2020 0900] [VRAM ON 1536MB : 18-11-2020 2200] [HDMI NOT WORKING] [IF YOU HAVE ANY SOLUTION TO SOLVE THIS PLEASE COMMIT TO THIS REPO]
-- Sound : Realtek ALC256 [ WORKING SINCE 18-11-2020 2200] [VOODOOHDA USED] [APPLEALC INJECT FAILED] [IF YOU HAVE ANY SOLUTION TO SOLVE THIS PLEASE COMMIT TO THIS REPO]
+- Sound : Realtek ALC256 [ FULLY WORKING SINCE 19-11-2020 2200] [ComboJack](https://github.com/hackintosh-stuff/ComboJack) needed for headphones jack working!
 - Trackpad : I2C Synaptics [WORKING SINCE 19-11-2020 1300]
 - 2 x USB 3.1 Gen 1 A Port [WORKING] [5GBPS FULL SPEED]
 - 1 x USB 3.1 Gen 1 C Port [WORKING] [5GBPS FULL SPEED]
@@ -42,6 +42,10 @@
 - DRM Content wont work
 - FN Keys for Brightness wont work , only Volume Mute / Up / Down working
 
+## 19-11-2020 2200
+- Added layout-id to 13 in boot args [AUDIO FINALLY WORK] 
+  - [ComboJack](https://github.com/hackintosh-stuff/ComboJack) needed for headphones jack working 
+  - For [ComboJack](https://github.com/hackintosh-stuff/ComboJack) , VerbStub.kext already loaded inside EFI/Clover/Kexts/Other , to install [ComboJack](https://github.com/hackintosh-stuff/ComboJack) , simply run install.sh that inside ComboJack_Installation folder , you can also replace the latest VerbStub.kext along with the install.sh file into EFI/Clover/Kexts/Other.
 
 ## 19-11-2020 1300
 - Added support for trackpad (VoodooI2C) with correct hotpatch and SSDT
