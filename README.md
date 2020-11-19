@@ -18,13 +18,17 @@
 - Added support for trackpad (VoodooI2C) with correct hotpatch and SSDT
     - Remove broken brightness control that will conflict with Trackpad SSDT
     - Added new brightness control 
+    - VRAM set to 2048MB
 
 ## 19-11-2020 0900
 - Added new brightness control
   - Update : 19-11-2020 : This brightness control will conflict with Trackpad SSDT , removed and added another new brightness control patch
+  - VRAM set to 2048MB
 
 ## 18-11-2020 2200
 - Added support for Intel AX201 with Airportitlwm.kext
+- VRAM should remain at 1536MB
 
 ## 18-11-2020 1800
 - Added EFI from [DalianSky Catalina 10.15.7 Image](http://blog.daliansky.net/macOS-Catalina-10.15.7-19H2-Release-version-with-Clover-5122-original-image-Double-EFI-Version-UEFI-and-MBR.html)
+- If use original EFI from [DalianSky Catalina 10.15.7 Image](http://blog.daliansky.net/macOS-Catalina-10.15.7-19H2-Release-version-with-Clover-5122-original-image-Double-EFI-Version-UEFI-and-MBR.html) will caused VRAM at 5MB / 7MB display only.
