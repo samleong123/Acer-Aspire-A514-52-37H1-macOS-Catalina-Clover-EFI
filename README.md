@@ -18,16 +18,16 @@
 - 2.4GHz & 5GHz WiFi & Bluetooth : INTEL AX201 [WORKING] [RUNNING ONLY AT 20MHZ ON 2.4GHZ & 5GHZ] THANKS TO [zxystd](https://github.com/zxystd)!
 
 ### Screenshots 
-- Intel AX201 2.4Ghz & 5GHz Work!
+Intel AX201 2.4Ghz & 5GHz Work!
 ![image](https://raw.githubusercontent.com/samleong123/Acer-Aspire-A514-52-37H1-macOS-Catalina-Clover-EFI/main/Screenshots/Screenshot%202020-11-19%20at%203.08.20%20PM.png)
 
-- Trackpad Work !
+Trackpad Work !
 ![image](https://raw.githubusercontent.com/samleong123/Acer-Aspire-A514-52-37H1-macOS-Catalina-Clover-EFI/main/Screenshots/Screenshot%202020-11-19%20at%203.08.45%20PM.png)
 
-- Youtube 4K 2160P Work Perfectly!
+Youtube 4K 2160P Work Perfectly!
 ![image](https://raw.githubusercontent.com/samleong123/Acer-Aspire-A514-52-37H1-macOS-Catalina-Clover-EFI/main/Screenshots/Screenshot%202020-11-19%20at%203.09.50%20PM.png)
 
-- Intel AX201 Bluetooth Work!
+Intel AX201 Bluetooth Work!
 ![image](https://raw.githubusercontent.com/samleong123/Acer-Aspire-A514-52-37H1-macOS-Catalina-Clover-EFI/main/Screenshots/Screenshot%202020-11-19%20at%203.13.41%20PM.png)
 
 ### Currently knew problem : 
