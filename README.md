@@ -16,6 +16,7 @@
 - 1 x RJ45 Realtek RTL8111 1GBPS [WORKING]
 - 1 x HDMI port [NOT WORKING] [IF YOU HAVE ANY SOLUTION TO SOLVE THIS PLEASE COMMIT TO THIS REPO]
 - 2.4GHz & 5GHz WiFi & Bluetooth : INTEL AX201 [WORKING] [RUNNING ONLY AT 20MHZ ON 2.4GHZ & 5GHZ] THANKS TO [zxystd](https://github.com/zxystd)!
+- 1 x HD User Facing (Connected through USB) [WORKING]
 
 ### Screenshots 
 - Intel AX201 2.4GHz & 5GHz & Bluetooth Work!
