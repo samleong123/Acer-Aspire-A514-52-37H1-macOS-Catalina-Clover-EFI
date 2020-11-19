@@ -4,6 +4,6 @@
 #### Clover Version : v2.5k r5120
 #### Special thanks to [Daliansky](https://github.com/daliansky)
 
-## 18-11-2020 2200\
+## 18-11-2020 2200
 - Added support for Intel AX201 with Airportitlwm.kext}
 - VRAM should remain at 1536MB
