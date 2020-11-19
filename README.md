@@ -35,9 +35,6 @@
 
 ### Currently knew problem : 
 - HDMI wont work
-- Headphone Jack wont work
-- AppleALC unable inject any layout ID on ALC256
-- VoodooHDA used and Internal Mic is working but contain a little bit crack sound
 - Sometimes IO80211 will crashed and caused a kernel panic , just reboot and usually will solve it
 - DRM Content wont work
 - FN Keys for Brightness wont work , only Volume Mute / Up / Down working
