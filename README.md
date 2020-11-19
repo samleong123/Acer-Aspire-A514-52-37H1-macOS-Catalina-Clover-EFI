@@ -1,4 +1,4 @@
-# Acer# Acer Aspire A514-52-37H1 macOS Catalina Clover EFI
+# Acer Aspire A514-52-37H1 macOS Catalina Clover EFI
 
 #### macOS Catalina Version : 10.15.7
 #### Clover Version : v2.5k r5120
