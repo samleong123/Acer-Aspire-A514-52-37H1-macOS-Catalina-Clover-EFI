@@ -7,12 +7,12 @@
 ### Specifications
 - Intel i3-10110u Dual Core Processor [WORKING WITHOUT SPOOF]
 - Intel UHD 620 (NO DGPU)[ VRAM SET ON 2048MB SINCE 19-11-2020 0900] [VRAM ON 1536MB : 18-11-2020 2200] [HDMI NOT WORKING] [IF YOU HAVE ANY SOLUTION TO SOLVE THIS PLEASE COMMIT TO THIS REPO]
-- Sound : Realtek ALC256 [ FULLY WORKING SINCE 19-11-2020 2200] [ComboJack](https://github.com/hackintosh-stuff/ComboJack) needed for headphones jack working!
+- Sound : Realtek ALC256 [ FULLY WORKING SINCE 19-11-2020 2210] 
 - Trackpad : I2C Synaptics [WORKING SINCE 19-11-2020 1300]
 - 2 x USB 3.1 Gen 1 A Port [WORKING] [5GBPS FULL SPEED]
 - 1 x USB 3.1 Gen 1 C Port [WORKING] [5GBPS FULL SPEED]
 - 1 x USB 2.0 A Port [WORKING] [480MBPS FULL SPEED]
-- 1 x 3.5mm Headphone Jack [NOT WORKING] [IF YOU HAVE ANY SOLUTION TO SOLVE THIS PLEASE COMMIT TO THIS REPO]
+- 1 x 3.5mm Headphone Jack [WORKING SINCE 19-11-2020 2210] [[ComboJack](https://github.com/hackintosh-stuff/ComboJack) needed for headphones jack working!]
 - 1 x RJ45 Realtek RTL8111 1GBPS [WORKING]
 - 1 x HDMI port [NOT WORKING] [IF YOU HAVE ANY SOLUTION TO SOLVE THIS PLEASE COMMIT TO THIS REPO]
 - 2.4GHz & 5GHz WiFi & Bluetooth : INTEL AX201 [WORKING] [RUNNING ONLY AT 20MHZ ON 2.4GHZ & 5GHZ] THANKS TO [zxystd](https://github.com/zxystd)!
