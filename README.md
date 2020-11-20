@@ -71,3 +71,4 @@
 ## 18-11-2020 1800
 - Added EFI from [DalianSky Catalina 10.15.7 Image](http://blog.daliansky.net/macOS-Catalina-10.15.7-19H2-Release-version-with-Clover-5122-original-image-Double-EFI-Version-UEFI-and-MBR.html)
 - If use original EFI from [DalianSky Catalina 10.15.7 Image](http://blog.daliansky.net/macOS-Catalina-10.15.7-19H2-Release-version-with-Clover-5122-original-image-Double-EFI-Version-UEFI-and-MBR.html) will caused VRAM at 5MB / 7MB display only.
+- If you want to use the original EFI file from [Daliansky](https://github.com/daliansky) , click [here]http://blog.daliansky.net/macOS-Catalina-10.15.7-19H2-Release-version-with-Clover-5122-original-image-Double-EFI-Version-UEFI-and-MBR.html) to his blog.
