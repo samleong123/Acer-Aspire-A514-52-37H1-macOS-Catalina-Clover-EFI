@@ -23,6 +23,8 @@
 - Intel AX201 2.4GHz & 5GHz & Bluetooth Work!
 - Trackpad Work!
 - Youtube 4K 2160P work perfectly!
+- If you want to use Headphone with Mic inside Headphone work , choose "Headset" when you plug in your headphone. [This require to install ComboJack!]
+- Internal Speakers + Internal Mic / Headphone + Headphone Mic work perfectly!
 ![image](https://raw.githubusercontent.com/samleong123/Acer-Aspire-A514-52-37H1-macOS-Catalina-Clover-EFI/main/Screenshots/Screenshot%202020-11-19%20at%203.08.20%20PM.png)
 
 
@@ -33,6 +35,12 @@
 
 
 ![image](https://raw.githubusercontent.com/samleong123/Acer-Aspire-A514-52-37H1-macOS-Catalina-Clover-EFI/main/Screenshots/Screenshot%202020-11-19%20at%203.13.41%20PM.png)
+
+![image](https://raw.githubusercontent.com/samleong123/Acer-Aspire-A514-52-37H1-macOS-Catalina-Clover-EFI/main/Screenshots/Screenshot%202020-11-20%20at%207.44.11%20AM.png)
+
+![image](https://raw.githubusercontent.com/samleong123/Acer-Aspire-A514-52-37H1-macOS-Catalina-Clover-EFI/main/Screenshots/Screenshot%202020-11-20%20at%207.45.10%20AM.png)
+
+![image](https://raw.githubusercontent.com/samleong123/Acer-Aspire-A514-52-37H1-macOS-Catalina-Clover-EFI/main/Screenshots/Screenshot%202020-11-20%20at%207.45.14%20AM.png)
 
 ### Currently knew problem : 
 - HDMI wont work
