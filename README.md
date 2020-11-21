@@ -4,6 +4,7 @@
 #### Clover Version : v2.5k r5120
 #### Special thanks to [Daliansky](https://github.com/daliansky)
 #### EFI Download : [Click here](https://github.com/samleong123/Acer-Aspire-A514-52-37H1-macOS-Catalina-Clover-EFI/releases)
+#### Visit documentation : [Click here](https://hackintosh-acer.samsam123.tk/)
 
 ### Specifications
 - Intel i3-10110u Dual Core Processor [WORKING WITHOUT SPOOF]
