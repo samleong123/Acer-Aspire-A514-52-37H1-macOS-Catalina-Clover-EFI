@@ -8,7 +8,7 @@
 
 ### Specifications
 - Intel i3-10110u Dual Core Processor [WORKING WITHOUT SPOOF]
-- Intel UHD Graphics for 10th Gen Intel® Processors(NO DGPU)[ VRAM SET ON 2048MB SINCE 19-11-2020 0900] [VRAM ON 1536MB : 18-11-2020 2200] #### [HDMI NOT WORKING] [IF YOU HAVE ANY SOLUTION TO SOLVE THIS PLEASE COMMIT TO THIS REPO]
+- Intel UHD Graphics for 10th Gen Intel® Processors(NO DGPU) [HDMI NOT WORKING] [ VRAM SET ON 2048MB SINCE 19-11-2020 0900] [VRAM ON 1536MB : 18-11-2020 2200]  [IF YOU HAVE ANY SOLUTION TO SOLVE THIS PLEASE COMMIT TO THIS REPO]
 - Sound : Realtek ALC256 [ FULLY WORKING SINCE 19-11-2020 2210] 
 - Trackpad : I2C Synaptics [WORKING SINCE 19-11-2020 1300]
 - 2 x USB 3.1 Gen 1 A Port [WORKING] [5GBPS FULL SPEED]
@@ -33,7 +33,6 @@
 
 
 ![image](https://raw.githubusercontent.com/samleong123/Acer-Aspire-A514-52-37H1-macOS-Catalina-Clover-EFI/main/Screenshots/Screenshot%202020-11-19%20at%203.09.50%20PM.png)
-
 
 ![image](https://raw.githubusercontent.com/samleong123/Acer-Aspire-A514-52-37H1-macOS-Catalina-Clover-EFI/main/Screenshots/Screenshot%202020-11-19%20at%203.13.41%20PM.png)
 
