@@ -8,7 +8,7 @@
 
 ### Specifications
 - Intel i3-10110u Dual Core Processor [WORKING WITHOUT SPOOF]
-- Intel UHD 620 (NO DGPU)[ VRAM SET ON 2048MB SINCE 19-11-2020 0900] [VRAM ON 1536MB : 18-11-2020 2200] [HDMI NOT WORKING] [IF YOU HAVE ANY SOLUTION TO SOLVE THIS PLEASE COMMIT TO THIS REPO]
+- Intel UHD Graphics for 10th Gen Intel® Processors(NO DGPU)[ VRAM SET ON 2048MB SINCE 19-11-2020 0900] [VRAM ON 1536MB : 18-11-2020 2200] #### [HDMI NOT WORKING] [IF YOU HAVE ANY SOLUTION TO SOLVE THIS PLEASE COMMIT TO THIS REPO]
 - Sound : Realtek ALC256 [ FULLY WORKING SINCE 19-11-2020 2210] 
 - Trackpad : I2C Synaptics [WORKING SINCE 19-11-2020 1300]
 - 2 x USB 3.1 Gen 1 A Port [WORKING] [5GBPS FULL SPEED]
@@ -48,6 +48,12 @@
 - Sometimes IO80211 will crashed and caused a kernel panic , just reboot and usually will solve it
 - DRM Content wont work
 - FN Keys for Brightness wont work , only Volume Mute / Up / Down working
+
+## 21-11-2020 2100
+- Hackintool Patched to Intel Iris Plus Graphics 655 
+  - VRAM set as 2048MB
+  - HDMI still not working
+- Update SMBIOS as MacBookPro16,2 , please generate another new S/N with Clover Configurator yourself!
 
 ## 19-11-2020 2200
 - Added layout-id to 13 in boot args [AUDIO FINALLY WORK] 
