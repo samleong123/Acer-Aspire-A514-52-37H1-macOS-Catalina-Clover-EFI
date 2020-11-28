@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Acer Aspire A514-52-37H1 macOS Catalina</title>
+  
+  <subtitle>Hackintosh Yes!</subtitle>
+  <link href="https://hackintosh-acer.samsam123.tk/atom.xml" rel="self"/>
+  
+  <link href="https://hackintosh-acer.samsam123.tk/"/>
+  <updated>2020-11-27T12:08:13.363Z</updated>
+  <id>https://hackintosh-acer.samsam123.tk/</id>
+  
+  <author>
+    <name>Sam Sam</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Screenshots</title>
+    <link href="https://hackintosh-acer.samsam123.tk/Screenshots/"/>
+    <id>https://hackintosh-acer.samsam123.tk/Screenshots/</id>
+    <published>2020-11-27T12:05:39.000Z</published>
+    <updated>2020-11-27T12:08:13.363Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li>Intel AX201 2.4GHz &amp; 5GHz &amp; Bluetooth Work!</li><li>Trackpad Work!</li><li>Youtube 4K 2160P work perfectly!</li><li>If you want to use Headphone with Mic inside Headphone work , choose “Headset” when you plug in your headphone. [This require to install ComboJack!]</li><li>Internal Speakers + Internal Mic / Headphone + Headphone Mic work perfectly!</li></ul><p><img src="/images/Screenshot%202020-11-19%20at%203.08.20%20PM.png" alt="image"></p><p><img src="/images/Screenshot%202020-11-19%20at%203.08.45%20PM.png" alt="image"></p><p><img src="/images/Screenshot%202020-11-19%20at%203.09.50%20PM.png" alt="image"></p><p><img src="/images/Screenshot%202020-11-19%20at%203.13.41%20PM.png" alt="image"></p><p><img src="/images/Screenshot%202020-11-20%20at%207.44.11%20AM.png" alt="image"></p><p><img src="/images/Screenshot%202020-11-20%20at%207.45.10%20AM.png" alt="image"></p><p><img src="/images/Screenshot%202020-11-20%20at%207.45.14%20AM.png" alt="image"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;ul&gt;
+&lt;li&gt;Intel AX201 2.4GHz &amp;amp; 5GHz &amp;amp; Bluetooth Work!&lt;/li&gt;
+&lt;li&gt;Trackpad Work!&lt;/li&gt;
+&lt;li&gt;Youtube 4K 2160P work perfectly!&lt;/li&gt;
+&lt;li&gt;If y</summary>
+      
+    
+    
+    
+    
+    <category term="Screenshots" scheme="https://hackintosh-acer.samsam123.tk/tags/Screenshots/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Specifications</title>
+    <link href="https://hackintosh-acer.samsam123.tk/Specifications/"/>
+    <id>https://hackintosh-acer.samsam123.tk/Specifications/</id>
+    <published>2020-11-27T11:52:47.000Z</published>
+    <updated>2020-11-27T12:12:46.507Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/images/pic02.png"></p><h2 id="Currently-knew-problem"><a href="#Currently-knew-problem" class="headerlink" title="Currently knew problem:"></a>Currently knew problem:</h2><p><a href="https://github.com/samleong123/Acer-Aspire-A514-52-37H1-macOS-Catalina-Clover-EFI/#currently-knew-problem-">Click Here</a></p><h2 id="Specifications-of-Acer-Aspire-A514-52-37H1"><a href="#Specifications-of-Acer-Aspire-A514-52-37H1" class="headerlink" title="Specifications of Acer Aspire A514-52-37H1"></a>Specifications of Acer Aspire A514-52-37H1</h2><ul><li>Intel i3-10110u Dual Core Processor [WORKING WITHOUT SPOOF]</li><li>Intel UHD Graphics for 10th Gen Intel® Processors(NO DGPU) [HDMI NOT WORKING] [ VRAM SET ON 2048MB SINCE 19-11-2020 0900] [VRAM ON 1536MB : 18-11-2020 2200]  [IF YOU HAVE ANY SOLUTION TO SOLVE THIS PLEASE COMMIT TO THIS REPO]</li><li>Sound : Realtek ALC256 [ FULLY WORKING SINCE 19-11-2020 2210] </li><li>Trackpad : I2C Synaptics [WORKING SINCE 19-11-2020 1300]</li><li>2 x USB 3.1 Gen 1 A Port [WORKING] [5GBPS FULL SPEED]</li><li>1 x USB 3.1 Gen 1 C Port [WORKING] [5GBPS FULL SPEED]</li><li>1 x USB 2.0 A Port [WORKING] [480MBPS FULL SPEED]</li><li>1 x 3.5mm Headphone Jack [WORKING SINCE 19-11-2020 2210] [<a href="https://github.com/hackintosh-stuff/ComboJack">ComboJack</a> needed for headphones jack working!]</li><li>1 x RJ45 Realtek RTL8111 1GBPS [WORKING]</li><li>1 x HDMI port [NOT WORKING] [IF YOU HAVE ANY SOLUTION TO SOLVE THIS PLEASE COMMIT TO THIS REPO]</li><li>2.4GHz &amp; 5GHz WiFi &amp; Bluetooth : INTEL AX201 [WORKING] [RUNNING ONLY AT 20MHZ ON 2.4GHZ &amp; 5GHZ] THANKS TO <a href="https://github.com/zxystd">zxystd</a>!</li><li>1 x HD User Facing (Connected through USB) [WORKING]</li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/images/pic02.png&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;Currently-knew-problem&quot;&gt;&lt;a href=&quot;#Currently-knew-problem&quot; class=&quot;headerlink&quot; title=&quot;Currently k</summary>
+      
+    
+    
+    
+    
+    <category term="Specifications" scheme="https://hackintosh-acer.samsam123.tk/tags/Specifications/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>About</title>
+    <link href="https://hackintosh-acer.samsam123.tk/About/"/>
+    <id>https://hackintosh-acer.samsam123.tk/About/</id>
+    <published>2020-11-27T11:52:47.000Z</published>
+    <updated>2020-11-27T12:13:33.755Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li><p>This EFI contains EFI file(s) from <a href="https://github.com/daliansky">Daliansky</a> and some DSDT patch and SSDT patch that enable I2C touchpad and some audio inject for ALC256 on Acer Aspire A514-52-37H1.</p></li><li><p>This will let you to install and run macOS Catalina on Acer Aspire A514-52-37H1 with this EFI.</p></li></ul><h4 id="Tested-version"><a href="#Tested-version" class="headerlink" title="Tested version :"></a>Tested version :</h4><ul><li>macOS Version : Catalina 10.15.7</li><li>Clover Version : v2.5k r5120</li></ul><h4 id="EFI-Download-Link-Click-Here"><a href="#EFI-Download-Link-Click-Here" class="headerlink" title="EFI Download Link : Click Here"></a>EFI Download Link : <a href="https://github.com/samleong123/Acer-Aspire-A514-52-37H1-macOS-Catalina-Clover-EFI/releases">Click Here</a></h4><h4 id="Currently-Knew-Problem-Visit-Specifications"><a href="#Currently-Knew-Problem-Visit-Specifications" class="headerlink" title="Currently Knew Problem : Visit Specifications"></a>Currently Knew Problem : <a href="/Specifications">Visit Specifications</a></h4><h4 id="Screenshots-Visit-Screenshots"><a href="#Screenshots-Visit-Screenshots" class="headerlink" title="Screenshots : Visit Screenshots"></a>Screenshots : <a href="/Screenshots">Visit Screenshots</a></h4>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;This EFI contains EFI file(s) from &lt;a href=&quot;https://github.com/daliansky&quot;&gt;Daliansky&lt;/a&gt; and some DSDT patch and SSDT patch that </summary>
+      
+    
+    
+    
+    
+    <category term="About" scheme="https://hackintosh-acer.samsam123.tk/tags/About/"/>
+    
+  </entry>
+  
+</feed>
